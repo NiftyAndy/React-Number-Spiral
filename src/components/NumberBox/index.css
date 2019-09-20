@@ -1,0 +1,14 @@
+.box {
+  background-color: grey;
+  border: 1px black solid;
+  height: 80px;
+  width: 100%;
+  margin: 5px;
+  display: flex;
+}
+.number {
+  margin: auto;
+}
+.highlighted {
+  background-color: red;
+}
